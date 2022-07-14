@@ -2,7 +2,7 @@
 - 👀 I’m interested in writing, learning, and meeting new people
 - 🌱 I’m currently learning Python 3
 - 💞️ I’m looking to collaborate on creative projects or experimental projects
-- 📫 How to reach me: 
+- 📫 How to reach me: Twitter: @suzimagee Insta: @suzi.magee
 
 <!---
 su-mag/su-mag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
