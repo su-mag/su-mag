@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @su-mag
-- 👀 I’m interested in writing, learning, and meeting new people
+- 👀 I’m interested in writing, making visual art, and meeting new people
 - 🌱 I’m currently learning Python 3
 - 💞️ I’m looking to collaborate on creative projects or experimental projects
 - 📫 How to reach me: Twitter: @suzimagee Insta: @suzi.magee
