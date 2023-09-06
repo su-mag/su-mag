@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @su-mag
-- 👀 I’m interested in writing, making visual art, and meeting new people
+- 👀 I’m a visual artist and writer
 - 🌱 I’m currently studying towards a Postgraduate degree in Software development
 - 💞️ I’m looking to collaborate on creative projects or experimental projects
-- I would like to learn more about developing music or audio projects 
+- I would like to learn about the intersection of art and software, for example, in mixed reality
 - 📫 How to reach me: Twitter: @suzimagee Insta: @suzi.magee
 
 <!---
